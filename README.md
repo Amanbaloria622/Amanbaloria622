@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+##  Abour Me
+I'm a passionate web developer specializing in creating responsive, user-centric applications using modern technologies. Currently expanding my expertise across the full development stack with a focus on clean code and exceptional user experiences.
+Technical Skills:
 
+Frontend: HTML5, CSS3, JavaScript (ES6+), React <br/>
+Backend: Node.js, Express.js
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amanbaloria/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amanbaloria627@outlook.com) 
