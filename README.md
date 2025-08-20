@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 ##  Abour Me
 I'm a passionate web developer specializing in creating responsive, user-centric applications using modern technologies. Currently expanding my expertise across the full development stack with a focus on clean code and exceptional user experiences.
-Technical Skills:
-
+## Technical Skills:
 Frontend: HTML5, CSS3, JavaScript (ES6+), React <br/>
 Backend: Node.js, Express.js
 
