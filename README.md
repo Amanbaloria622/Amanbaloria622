@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##  Abour Me
+##  About Me
 I'm a passionate web developer specializing in creating responsive, user-centric applications using modern technologies. Currently expanding my expertise across the full development stack with a focus on clean code and exceptional user experiences.
 
 ## 🌐 Socials:
